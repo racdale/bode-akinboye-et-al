@@ -5,4 +5,6 @@ The research used "Dynamic Analysis of Discourse" (DyAD) point-and-click interfa
 
 *Note*: DyAD contains partial analysis for semantic and syntactic annotations of transripts as well. These are included as illustrations in the interface, though they remain under development. The primary analysis in the paper is at the lexical level which is the most complete part of the DyAD interface.
 
+Illustration of DyAD:
+
 ![DyAD illustration](dyad.jpg)
