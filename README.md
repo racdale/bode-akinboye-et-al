@@ -5,7 +5,7 @@ The research used "Dynamic Analysis of Discourse" (DyAD) point-and-click interfa
 
 *Note*: DyAD contains partial analysis for semantic and syntactic annotations of transripts as well. These are included as illustrations in the interface, though they remain under development. The primary analysis in the paper is at the lexical level which is the most complete part of the DyAD interface.
 
-*Command-line version*: The interested researcher can also consult `cli_analysis.R`. The first and third authors worked together to check DyAD's output and develop a script that can conduct analysis without the need to install the full DyAD interface for the lexical approach described in the paper.
+*Command-line version*: The interested reader can also consult `cli_analysis.R`. Led by the first and third authors, this script checks DyAD's output and develops a standalone script that conducts analysis without the need to install the full DyAD interface for the lexical approach described in the paper.
 
 Illustration of DyAD:
 
